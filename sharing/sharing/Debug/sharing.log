@@ -1,3 +1,4 @@
 ﻿  sharing.cpp
+c:\users\dywalsh\documents\visual studio 2017\projects\sharing\sharing\sharing.cpp(384): warning C4101: 'i': unreferenced local variable
   sharing.vcxproj -> c:\users\dywalsh\documents\visual studio 2017\Projects\sharing\Debug\sharing.exe
   sharing.vcxproj -> c:\users\dywalsh\documents\visual studio 2017\Projects\sharing\Debug\sharing.pdb (Partial PDB)
